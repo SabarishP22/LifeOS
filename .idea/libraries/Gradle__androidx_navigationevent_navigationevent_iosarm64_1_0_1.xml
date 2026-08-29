@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.navigationevent:navigationevent-iosarm64:1.0.1" type="kotlin.native" external-system-id="GRADLE">
+    <properties groupId="androidx.navigationevent" artifactId="navigationevent-iosarm64" version="1.0.1" baseVersion="1.0.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.navigationevent/navigationevent-iosarm64/1.0.1/f930caf1d62546fc4ea86c0b3da3dad5ddca506d/navigationevent-iosArm64Main-1.0.1.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.navigationevent/navigationevent-iosarm64/1.0.1/46981a80807bd8375f23fa18d47bffaab39f2cad/navigationevent-iosarm64-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

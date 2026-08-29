@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.compose.material3:material3-js:1.11.0-alpha07" type="kotlin.js" external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.compose.material3" artifactId="material3-js" version="1.11.0-alpha07" baseVersion="1.11.0-alpha07" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.material3/material3-js/1.11.0-alpha07/50db5a64c25d80d8c7bd3807ee1b3f3ce138a63d/material3-js-1.11.0-alpha07.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.material3/material3-js/1.11.0-alpha07/f26b7078c4184b9df3a4b3863f187d176001e767/material3-js-1.11.0-alpha07-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

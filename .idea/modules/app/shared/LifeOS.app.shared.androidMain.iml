@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":app:shared:androidMain" external.linked.project.path="$MODULE_DIR$/../../../../app/shared" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="LifeOS.app" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet external-system-id="GRADLE" type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="androidMain" />
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/androidMain/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/androidMain/res" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/androidMain/assets" />
+        <option name="PROJECT_TYPE" value="1" />
+      </configuration>
+    </facet>
+    <facet external-system-id="GRADLE" type="kotlin-language" name="Kotlin">
+      <configuration version="5" platform="JVM 11" allPlatforms="JVM [11]" useProjectSettings="false" isTestModule="false" externalProjectId=":app:shared" isHmppProject="true">
+        <dependsOnModuleNames>:app:shared:commonMain</dependsOnModuleNames>
+        <sourceSets>
+          <sourceSet>LifeOS.app.shared.commonMain</sourceSet>
+        </sourceSets>
+        <newMppModelJpsModuleKind>COMPILATION_AND_SOURCE_SET_HOLDER</newMppModelJpsModuleKind>
+        <compilerSettings />
+        <compilerArguments>
+          <flagArguments>
+            <flagArg name="allowNoSourceFiles" arg="true" />
+            <flagArg name="noReflect" arg="true" />
+            <flagArg name="noStdlib" arg="true" />
+            <flagArg name="multiPlatform" arg="true" />
+          </flagArguments>
+          <stringArguments>
+            <stringArg name="destination" arg="$MODULE_DIR$/../../../../app/shared/build/classes/kotlin/android/main" />
+            <stringArg name="jvmTarget" arg="11" />
+            <stringArg name="moduleName" arg="LifeOS.app:shared" />
+            <stringArg name="apiVersion" arg="2.4" />
+            <stringArg name="languageVersion" arg="2.4" />
+          </stringArguments>
+          <arrayArguments>
+            <arrayArg name="fragmentRefines">
+              <args>androidMain:commonMain</args>
+            </arrayArg>
+            <arrayArg name="fragments">
+              <args>
+                <arg>androidMain</arg>
+                <arg>commonMain</arg>
+              </args>
+            </arrayArg>
+            <arrayArg name="pluginClasspaths">
+              <args>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compose-compiler-plugin-embeddable/2.4.10/2628f349e1439df32391fda32e3ee23808b2b15c/kotlin-compose-compiler-plugin-embeddable-2.4.10.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-jvm/2.4.10/eb92c8d3f0216114cd21ac287acdf67b8a846cb7/kotlin-scripting-jvm-2.4.10.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-common/2.4.10/45b7f0594bc5173c5120ce5cc452129e13666141/kotlin-scripting-common-2.4.10.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/2.4.10/8943c84ddc6d5cc00a10dbc3736c397066eeaab5/kotlin-stdlib-2.4.10.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/2.4.10/8365e84d1043a759f868135e8146ed949698804a/kotlin-script-runtime-2.4.10.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar</arg>
+              </args>
+            </arrayArg>
+            <arrayArg name="pluginOptions">
+              <args>
+                <arg>plugin:androidx.compose.compiler.plugins.kotlin:sourceInformation=true</arg>
+                <arg>plugin:androidx.compose.compiler.plugins.kotlin:traceMarkersEnabled=true</arg>
+              </args>
+            </arrayArg>
+          </arrayArguments>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11">
+    <output url="file://$MODULE_DIR$/../../../../app/shared/build/classes/kotlin/android/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../app/shared/build/generated/compose/resourceGenerator/kotlin/androidMainResourceAccessors" />
+    <content url="file://$MODULE_DIR$/../../../../app/shared/build/generated/compose/resourceGenerator/kotlin/androidMainResourceCollectors">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../app/shared/build/generated/compose/resourceGenerator/kotlin/androidMainResourceCollectors" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../app/shared/build/generated/compose/resourceGenerator/kotlin/assets" />
+    <content url="file://$MODULE_DIR$/../../../../app/shared/build/generated/compose/resourceGenerator/kotlin/res" />
+    <content url="file://$MODULE_DIR$/../../../../app/shared/src/androidMain">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../app/shared/src/androidMain/kotlin" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 36.0, extension level 17 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="LifeOS.app.shared.commonMain" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.components:components-resources-android:1.11.1" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.compose.material3:material3-android:1.5.0-alpha17" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.compose.material:material-ripple-android:1.11.0-rc01" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.compose.animation:animation-core-android:1.11.2" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.compose.animation:animation-android:1.11.2" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.compose.foundation:foundation-layout-android:1.11.2" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.compose.foundation:foundation-android:1.11.2" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.compose.ui:ui-util-android:1.11.2" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.compose.ui:ui-unit-android:1.11.2" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.compose.ui:ui-graphics-android:1.11.2" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.compose.ui:ui-geometry-android:1.11.2" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.compose.ui:ui-text-android:1.11.2" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.compose.ui:ui-tooling-data-android:1.11.2" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.compose.ui:ui-android:1.11.2" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.compose.ui:ui-tooling-android:1.11.2" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.compose.ui:ui-tooling-preview-android:1.11.2" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-runtime-ktx-android:2.11.0-beta01" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.11.0-beta01" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.11.0-beta01" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-runtime-android:2.11.0-beta01" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-viewmodel-android:2.11.0-beta01" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common-jvm:2.11.0-beta01" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-runtime-compose-android:2.11.0-beta01" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-viewmodel-compose-android:2.11.0-beta01" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.11.0-beta01" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.core:core-ktx:1.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.core:core:1.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.collection:collection-jvm:1.5.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.compose.runtime:runtime-annotation-android:1.11.2" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.compose.runtime:runtime-retain-android:1.11.2" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.compose.runtime:runtime-android:1.11.2" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.compose.runtime:runtime-saveable-android:1.11.2" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.savedstate:savedstate-android:1.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.savedstate:savedstate-compose-android:1.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-common:2.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.annotation:annotation-jvm:1.9.1" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.annotation:annotation-experimental:1.4.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.9.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-android:1.9.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core-jvm:1.7.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:2.4.10" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:23.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.graphics:graphics-shapes-android:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jspecify:jspecify:1.0.0" level="project" />
+    <orderEntry type="module" module-name="LifeOS.core.commonMain" />
+    <orderEntry type="module" module-name="LifeOS.core.androidMain" />
+  </component>
+</module>

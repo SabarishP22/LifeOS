@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.compose.runtime:runtime-retain:nonJvmMain:1.11.2" type="kotlin.common" external-system-id="GRADLE">
+    <properties groupId="androidx.compose.runtime" artifactId="runtime-retain" version="1.11.2" baseVersion="1.11.2" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.compose.runtime-runtime-retain-1.11.2-nonJvmMain-c_A_bA.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.runtime/runtime-retain/1.11.2/f932142790283635b53ed31d92eb8166e2a30ace/runtime-retain-1.11.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

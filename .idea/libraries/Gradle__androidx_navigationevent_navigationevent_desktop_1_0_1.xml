@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.navigationevent:navigationevent-desktop:1.0.1" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="androidx.navigationevent" artifactId="navigationevent-desktop" version="1.0.1" baseVersion="1.0.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.navigationevent/navigationevent-desktop/1.0.1/ddb1e7fe97ed51c3d35bba493f97fcf12398719/navigationevent-desktop-1.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.navigationevent/navigationevent-desktop/1.0.1/4a1dd6c564d43a5a81d3ab218726fba309aff76e/navigationevent-desktop-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

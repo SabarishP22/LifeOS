@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.compose.components:components-resources-js:1.11.1" type="kotlin.js" external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.compose.components" artifactId="components-resources-js" version="1.11.1" baseVersion="1.11.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.components/components-resources-js/1.11.1/9fc762e34f3d51d4acdbbbe58f8c4f57f73fbc8f/library-js-1.11.1.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.components/components-resources-js/1.11.1/2669baa436cd9eb943eb1af38e716ff233796270/library-js-1.11.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

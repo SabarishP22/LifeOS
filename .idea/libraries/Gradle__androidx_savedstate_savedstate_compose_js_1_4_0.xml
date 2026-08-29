@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.savedstate:savedstate-compose-js:1.4.0" type="kotlin.js" external-system-id="GRADLE">
+    <properties groupId="androidx.savedstate" artifactId="savedstate-compose-js" version="1.4.0" baseVersion="1.4.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.savedstate/savedstate-compose-js/1.4.0/14a4bed16b2584c10411ea4d901fd966286aee71/savedstate-compose-js-1.4.0.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.savedstate/savedstate-compose-js/1.4.0/f4223dfac143d9d0e22dd51ca447eb6ea9fda65b/savedstate-compose-js-1.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

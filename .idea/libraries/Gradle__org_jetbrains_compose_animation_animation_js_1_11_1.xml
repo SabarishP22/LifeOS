@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.compose.animation:animation-js:1.11.1" type="kotlin.js" external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.compose.animation" artifactId="animation-js" version="1.11.1" baseVersion="1.11.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.animation/animation-js/1.11.1/eac13ae07b32de826f0065c1bc40eecdebf8eb51/animation-js-1.11.1.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.animation/animation-js/1.11.1/f96486d8c8090c0108785fed48a70f933bba1a84/animation-js-1.11.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

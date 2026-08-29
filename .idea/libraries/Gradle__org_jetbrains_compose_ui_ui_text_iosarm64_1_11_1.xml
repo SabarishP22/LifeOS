@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.compose.ui:ui-text-iosarm64:1.11.1" type="kotlin.native" external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.compose.ui" artifactId="ui-text-iosarm64" version="1.11.1" baseVersion="1.11.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.ui/ui-text-iosarm64/1.11.1/d491abebd5f74c9218a2d741fcd11356269302f4/ui-text-iosArm64Main-1.11.1.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.ui/ui-text-iosarm64/1.11.1/a3d7e4af4900df1430a223b8cbb495a29443d1da/ui-text-iosarm64-1.11.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

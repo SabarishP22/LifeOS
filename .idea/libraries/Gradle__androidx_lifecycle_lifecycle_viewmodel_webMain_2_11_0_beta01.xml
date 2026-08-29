@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.lifecycle:lifecycle-viewmodel:webMain:2.11.0-beta01" type="kotlin.common" external-system-id="GRADLE">
+    <properties groupId="androidx.lifecycle" artifactId="lifecycle-viewmodel" version="2.11.0-beta01" baseVersion="2.11.0-beta01" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.lifecycle-lifecycle-viewmodel-2.11.0-beta01-webMain-Qjv5zA.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel/2.11.0-beta01/8c847d7454378b2428e735d79d51f37a0b0c4b8b/lifecycle-viewmodel-2.11.0-beta01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

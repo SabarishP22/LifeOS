@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.skiko:skiko-js:0.144.6" type="kotlin.js" external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.skiko" artifactId="skiko-js" version="0.144.6" baseVersion="0.144.6" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.skiko/skiko-js/0.144.6/96c2f87565a768ab72ad29876d7a0e6c48f8ac83/skiko-js-0.144.6.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.skiko/skiko-js/0.144.6/586ecc0b46fba16861e73aee48eb196fc2ef0561/skiko-js-0.144.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

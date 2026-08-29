@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-compose-desktop:2.11.0-beta01" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.androidx.lifecycle" artifactId="lifecycle-viewmodel-compose-desktop" version="2.11.0-beta01" baseVersion="2.11.0-beta01" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.androidx.lifecycle/lifecycle-viewmodel-compose-desktop/2.11.0-beta01/25df0b7b86731829cb34805ff8ebb167b198b916/lifecycle-viewmodel-compose-desktop-2.11.0-beta01.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.androidx.lifecycle/lifecycle-viewmodel-compose-desktop/2.11.0-beta01/486b06b566a28e8df2ca679c66bbabf94d29aa6e/lifecycle-viewmodel-compose-desktop-2.11.0-beta01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

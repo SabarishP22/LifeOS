@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.compose.material:material-ripple-js:1.11.0-beta03" type="kotlin.js" external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.compose.material" artifactId="material-ripple-js" version="1.11.0-beta03" baseVersion="1.11.0-beta03" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.material/material-ripple-js/1.11.0-beta03/fa334a10a5fdd17a7a1e0304a95f35c541f0cc07/material-ripple-js-1.11.0-beta03.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.material/material-ripple-js/1.11.0-beta03/5e1f86a4078c057427f330bbe7ac08b65da3a2e6/material-ripple-js-1.11.0-beta03-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

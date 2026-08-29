@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.compose.runtime:runtime-saveable-iosarm64:1.11.2" type="kotlin.native" external-system-id="GRADLE">
+    <properties groupId="androidx.compose.runtime" artifactId="runtime-saveable-iosarm64" version="1.11.2" baseVersion="1.11.2" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.runtime/runtime-saveable-iosarm64/1.11.2/926a5a1fe9c595aa2ef0a1801c8402d72c846aa4/runtime-saveable-iosArm64Main-1.11.2.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.runtime/runtime-saveable-iosarm64/1.11.2/f69812cebfdf366b7b24ab884bf0689aa0e74d43/runtime-saveable-iosarm64-1.11.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

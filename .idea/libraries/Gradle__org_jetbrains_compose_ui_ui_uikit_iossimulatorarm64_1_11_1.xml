@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.compose.ui:ui-uikit-iossimulatorarm64:1.11.1" type="kotlin.native" external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.compose.ui" artifactId="ui-uikit-iossimulatorarm64" version="1.11.1" baseVersion="1.11.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.ui/ui-uikit-iossimulatorarm64/1.11.1/aeea22c7c26752dbb9c58e301abddbdaa388ac18/ui-uikit-iosSimulatorArm64Cinterop-utilsMain-1.11.1.klib!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.ui/ui-uikit-iossimulatorarm64/1.11.1/ebea9e9e2a20bdf1a9948937a78f2d247e18c93b/ui-uikit-iosSimulatorArm64Main-1.11.1.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.ui/ui-uikit-iossimulatorarm64/1.11.1/c302eb13da091f94909d0822d1bf671ac7b46252/ui-uikit-iossimulatorarm64-1.11.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

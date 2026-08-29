@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.compose.animation:animation-core-iosarm64:1.11.1" type="kotlin.native" external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.compose.animation" artifactId="animation-core-iosarm64" version="1.11.1" baseVersion="1.11.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.animation/animation-core-iosarm64/1.11.1/2a49336baf30616431017113a90a25c500062f68/animation-core-iosArm64Main-1.11.1.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.animation/animation-core-iosarm64/1.11.1/ed734aa8246781dd90ed58ca83dd77a08b7863f2/animation-core-iosarm64-1.11.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

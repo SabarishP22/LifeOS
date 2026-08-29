@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.androidx.lifecycle:lifecycle-common-js:2.11.0-beta01" type="kotlin.js" external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.androidx.lifecycle" artifactId="lifecycle-common-js" version="2.11.0-beta01" baseVersion="2.11.0-beta01" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.androidx.lifecycle/lifecycle-common-js/2.11.0-beta01/8f09ac00705fdf6b8b0b897ca45eb62b4740e3eb/lifecycle-common-js-2.11.0-beta01.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.androidx.lifecycle/lifecycle-common-js/2.11.0-beta01/608ac6558b110c1dfbb6e80aaadb48139c83e0e5/lifecycle-common-js-2.11.0-beta01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

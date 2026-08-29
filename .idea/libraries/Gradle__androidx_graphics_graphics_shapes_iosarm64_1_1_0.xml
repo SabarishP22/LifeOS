@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.graphics:graphics-shapes-iosarm64:1.1.0" type="kotlin.native" external-system-id="GRADLE">
+    <properties groupId="androidx.graphics" artifactId="graphics-shapes-iosarm64" version="1.1.0" baseVersion="1.1.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.graphics/graphics-shapes-iosarm64/1.1.0/68e43667559851d30ab5fd214c513999fe18b7ed/graphics-shapes-iosArm64Main-1.1.0.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.graphics/graphics-shapes-iosarm64/1.1.0/3caf8ec35f663a12b2ea66a7d982615babf7f887/graphics-shapes-iosarm64-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

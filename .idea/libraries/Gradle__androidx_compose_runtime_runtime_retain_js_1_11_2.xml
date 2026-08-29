@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.compose.runtime:runtime-retain-js:1.11.2" type="kotlin.js" external-system-id="GRADLE">
+    <properties groupId="androidx.compose.runtime" artifactId="runtime-retain-js" version="1.11.2" baseVersion="1.11.2" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.runtime/runtime-retain-js/1.11.2/a325cf898e7c6b7d8c35055195acb52cddc5912/runtime-retain-js-1.11.2.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.runtime/runtime-retain-js/1.11.2/41085993e889e6151b9c179b075ea92713facf57/runtime-retain-js-1.11.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

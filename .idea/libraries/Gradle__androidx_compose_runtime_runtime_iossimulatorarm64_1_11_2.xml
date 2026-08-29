@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.compose.runtime:runtime-iossimulatorarm64:1.11.2" type="kotlin.native" external-system-id="GRADLE">
+    <properties groupId="androidx.compose.runtime" artifactId="runtime-iossimulatorarm64" version="1.11.2" baseVersion="1.11.2" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.runtime/runtime-iossimulatorarm64/1.11.2/b1ff9d0a3b1145105c52beb59ed48b04b2806c08/runtime-iosSimulatorArm64Main-1.11.2.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.runtime/runtime-iossimulatorarm64/1.11.2/b9ac65e583c4344cfaae4d0f7474dccb5c58152d/runtime-iossimulatorarm64-1.11.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.compose.animation:animation-iossimulatorarm64:1.11.1" type="kotlin.native" external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.compose.animation" artifactId="animation-iossimulatorarm64" version="1.11.1" baseVersion="1.11.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.animation/animation-iossimulatorarm64/1.11.1/d6457a82457b297e7d40344014cd49c82fd69920/animation-iosSimulatorArm64Main-1.11.1.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.animation/animation-iossimulatorarm64/1.11.1/6b8c7cb2450701c80e383f1e1c5cc883420e5894/animation-iossimulatorarm64-1.11.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

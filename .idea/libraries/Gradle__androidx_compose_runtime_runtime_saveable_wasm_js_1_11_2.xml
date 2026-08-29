@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.compose.runtime:runtime-saveable-wasm-js:1.11.2" type="kotlin.wasm.js" external-system-id="GRADLE">
+    <properties groupId="androidx.compose.runtime" artifactId="runtime-saveable-wasm-js" version="1.11.2" baseVersion="1.11.2" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.runtime/runtime-saveable-wasm-js/1.11.2/1d1e49ecae690268c4f687526773c1f629817de/runtime-saveable-wasm-js-1.11.2.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.runtime/runtime-saveable-wasm-js/1.11.2/f69812cebfdf366b7b24ab884bf0689aa0e74d43/runtime-saveable-wasm-js-1.11.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

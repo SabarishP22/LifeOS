@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.compose.runtime:runtime-saveable-desktop:1.11.1" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.compose.runtime" artifactId="runtime-saveable-desktop" version="1.11.1" baseVersion="1.11.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.runtime/runtime-saveable-desktop/1.11.1/b7c8a8ed985a0f15b4d8d206de1fc6125b499388/runtime-saveable-desktop-1.11.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.runtime/runtime-saveable-desktop/1.11.1/4f56f047e5bbbb718b99c5f6c05de8c91b1d6ee6/runtime-saveable-desktop-1.11.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

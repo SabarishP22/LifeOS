@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.compose.runtime:runtime-saveable:commonMain:1.11.2" type="kotlin.common" external-system-id="GRADLE">
+    <properties groupId="androidx.compose.runtime" artifactId="runtime-saveable" version="1.11.2" baseVersion="1.11.2" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/androidx.compose.runtime-runtime-saveable-1.11.2-commonMain-z_Dmcw.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.runtime/runtime-saveable/1.11.2/f69812cebfdf366b7b24ab884bf0689aa0e74d43/runtime-saveable-1.11.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

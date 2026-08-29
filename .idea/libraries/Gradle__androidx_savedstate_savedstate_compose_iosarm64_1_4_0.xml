@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.savedstate:savedstate-compose-iosarm64:1.4.0" type="kotlin.native" external-system-id="GRADLE">
+    <properties groupId="androidx.savedstate" artifactId="savedstate-compose-iosarm64" version="1.4.0" baseVersion="1.4.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.savedstate/savedstate-compose-iosarm64/1.4.0/5c655598a012dd849dfd78592d5ed4e7dad01316/savedstate-compose-iosArm64Main-1.4.0.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.savedstate/savedstate-compose-iosarm64/1.4.0/f4223dfac143d9d0e22dd51ca447eb6ea9fda65b/savedstate-compose-iosarm64-1.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.kotlinx:kotlinx-browser-js:0.5.0" type="kotlin.js" external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.kotlinx" artifactId="kotlinx-browser-js" version="0.5.0" baseVersion="0.5.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-browser-js/0.5.0/a4fafe363554c7fb812df4eecc959a8d7c1b12eb/kotlinx-browser-js-0.5.0.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-browser-js/0.5.0/45a12c77fee579841d50fd3900b207bc94db4a03/kotlinx-browser-js-0.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

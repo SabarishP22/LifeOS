@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.graphics:graphics-shapes-wasm-js:1.1.0" type="kotlin.wasm.js" external-system-id="GRADLE">
+    <properties groupId="androidx.graphics" artifactId="graphics-shapes-wasm-js" version="1.1.0" baseVersion="1.1.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.graphics/graphics-shapes-wasm-js/1.1.0/6c41c05fe9a143478894bcdd4660ed85f50c7144/graphics-shapes-wasm-js-1.1.0.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.graphics/graphics-shapes-wasm-js/1.1.0/3caf8ec35f663a12b2ea66a7d982615babf7f887/graphics-shapes-wasm-js-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

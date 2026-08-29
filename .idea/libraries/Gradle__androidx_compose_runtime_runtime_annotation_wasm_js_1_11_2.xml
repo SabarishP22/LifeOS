@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.compose.runtime:runtime-annotation-wasm-js:1.11.2" type="kotlin.wasm.js" external-system-id="GRADLE">
+    <properties groupId="androidx.compose.runtime" artifactId="runtime-annotation-wasm-js" version="1.11.2" baseVersion="1.11.2" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.runtime/runtime-annotation-wasm-js/1.11.2/3849f0eaa3f77c4f13ee1f830596a44bf2fd19c7/runtime-annotation-wasm-js-1.11.2.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.runtime/runtime-annotation-wasm-js/1.11.2/f7129a6199a2a16d5fcaff5d8320154e5d572b6a/runtime-annotation-wasm-js-1.11.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

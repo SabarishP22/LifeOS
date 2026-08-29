@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.compose.ui:ui-util:webMain:1.11.1" type="kotlin.common" external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.compose.ui" artifactId="ui-util" version="1.11.1" baseVersion="1.11.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.kotlin/metadata/kotlinTransformedMetadataLibraries/org.jetbrains.compose.ui-ui-util-1.11.1-webMain-PnqG8w.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.ui/ui-util/1.11.1/9de83076ad165c403d51a0b48bc64e9f11715895/ui-util-1.11.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

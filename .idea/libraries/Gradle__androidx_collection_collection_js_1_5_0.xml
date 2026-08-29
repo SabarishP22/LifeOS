@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.collection:collection-js:1.5.0" type="kotlin.js" external-system-id="GRADLE">
+    <properties groupId="androidx.collection" artifactId="collection-js" version="1.5.0" baseVersion="1.5.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.collection/collection-js/1.5.0/b43b0c0b846e7ae22232c30c6b93b1784c96da58/collection-js-1.5.0.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.collection/collection-js/1.5.0/fc714cfbe997d5454bb69aaffe64cd31a9e8ec0d/collection-js-1.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

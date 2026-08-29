@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.kotlin-wrappers:kotlin-web-js:2026.8.4" type="kotlin.js" external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.kotlin-wrappers" artifactId="kotlin-web-js" version="2026.8.4" baseVersion="2026.8.4" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin-wrappers/kotlin-web-js/2026.8.4/3921bf649658635d4cdabe11097dfbb8c8432cc0/kotlin-web-js-2026.8.4.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin-wrappers/kotlin-web-js/2026.8.4/3eb62baddf0dceafcc6747af2bd9866fcda0473a/kotlin-web-js-2026.8.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

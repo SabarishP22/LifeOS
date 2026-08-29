@@ -1,0 +1,8 @@
+{
+  "buildPath": ":",
+  "projectPath": ":core",
+  "moduleId": {
+    "groupId": "LifeOS",
+    "moduleId": "core"
+  }
+}

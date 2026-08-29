@@ -1,0 +1,58 @@
+# Gradle
+.gradle/
+build/
+**/build/
+!src/**/build/
+gradle-app.setting
+!gradle-wrapper.jar
+!gradle-wrapper.properties
+
+# Local config (machine-specific, may contain SDK paths/secrets)
+local.properties
+
+# IntelliJ / Android Studio
+.idea/*
+!.idea/copyright/
+!.idea/runConfigurations/
+*.iws
+*.iml
+*.ipr
+out/
+
+# Android
+*.apk
+*.aab
+*.ap_
+*.dex
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Kotlin/Native & KMP
+kotlin-js-store/
+.kotlin/
+
+# Xcode / iOS (Kotlin/Native framework build + Xcode's own state)
+app/iosApp/build/
+**/xcuserdata/
+**/*.xcworkspace/xcuserdata/
+DerivedData/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Node / JS / Wasm tooling used by Compose Web target
+node_modules/
+.yarn/
+.pnp.*
+
+# Ktor / server
+server/build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

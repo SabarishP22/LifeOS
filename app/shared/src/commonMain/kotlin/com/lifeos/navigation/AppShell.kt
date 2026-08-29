@@ -16,6 +16,7 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import com.lifeos.feature.dashboard.DashboardScreen
+import com.lifeos.feature.goals.GoalsScreen
 
 /**
  * Root app shell: owns which top-level destination is selected and renders
@@ -46,7 +47,7 @@ fun AppShell() {
         val contentModifier = Modifier.padding(innerPadding).fillMaxSize()
         when (selected) {
             AppDestination.Dashboard -> DashboardScreen(contentModifier)
-            AppDestination.Goals -> PlaceholderScreen(contentModifier, "Goals")
+            AppDestination.Goals -> GoalsScreen(contentModifier)
             AppDestination.Habits -> PlaceholderScreen(contentModifier, "Habits")
             AppDestination.Finance -> PlaceholderScreen(contentModifier, "Finance")
             AppDestination.Insights -> PlaceholderScreen(contentModifier, "Insights")
